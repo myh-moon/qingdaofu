@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x7528;&#x6237;/&#x767b;&#x5f55;&#x6ce8;&#x518c;/controller/LoginViewController.m"
+            timestampString = "487687580.969889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "-loginUser"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x50ac;&#x6536;/ReportCollectViewController.m"
+            timestampString = "488043443.449405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "510"
+            endingLineNumber = "510"
+            landmarkName = "-showTitleOfUpwardView:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x50ac;&#x6536;/ReportCollectViewController.m"
+            timestampString = "488043443.449405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "602"
+            endingLineNumber = "602"
+            landmarkName = "-reportCollectionActionWithString:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x50ac;&#x6536;/ReportCollectViewController.m"
+            timestampString = "488043443.449405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "634"
+            endingLineNumber = "634"
+            landmarkName = "-didReceiveMemoryWarning"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x50ac;&#x6536;/ReportCollectViewController.m"
+            timestampString = "488043443.449405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "561"
+            endingLineNumber = "561"
+            landmarkName = "-reportCollectionActionWithString:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x50ac;&#x6536;/ReportCollectViewController.m"
+            timestampString = "488043443.449405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "562"
+            endingLineNumber = "562"
+            landmarkName = "-reportCollectionActionWithString:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x50ac;&#x6536;/ReportCollectViewController.m"
+            timestampString = "488043443.449405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "523"
+            endingLineNumber = "523"
+            landmarkName = "-showTitleOfUpwardView:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[ReportCollectViewController showTitleOfUpwardView:]_block_invoke.506"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E5%8F%91%E5%B8%83%E4%BA%A7%E5%93%81/%E5%82%AC%E6%94%B6/ReportCollectViewController.m"
+                  timestampString = "490198131.373609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "523"
+                  endingLineNumber = "523"
+                  offsetFromSymbolStart = "271">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.509"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E5%8F%91%E5%B8%83%E4%BA%A7%E5%93%81/%E5%82%AC%E6%94%B6/ReportCollectViewController.m"
+                  timestampString = "490198131.373736"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "523"
+                  endingLineNumber = "523"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.510"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E5%8F%91%E5%B8%83%E4%BA%A7%E5%93%81/%E5%82%AC%E6%94%B6/ReportCollectViewController.m"
+                  timestampString = "490198131.373844"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "523"
+                  endingLineNumber = "523"
+                  offsetFromSymbolStart = "71">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x50ac;&#x6536;/ReportCollectViewController.m"
+            timestampString = "487690354.250583"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "299"
+            endingLineNumber = "299"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__63-[ReportCollectViewController tableView:cellForRowAtIndexPath:]_block_invoke_3"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E5%8F%91%E5%B8%83%E4%BA%A7%E5%93%81/%E5%82%AC%E6%94%B6/ReportCollectViewController.m"
+                  timestampString = "487690717.613308"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.283"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E5%8F%91%E5%B8%83%E4%BA%A7%E5%93%81/%E5%82%AC%E6%94%B6/ReportCollectViewController.m"
+                  timestampString = "487690717.635466"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.284"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E5%8F%91%E5%B8%83%E4%BA%A7%E5%93%81/%E5%82%AC%E6%94%B6/ReportCollectViewController.m"
+                  timestampString = "487690717.635977"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x4ea7;&#x54c1;/&#x4ea7;&#x54c1;&#x8be6;&#x60c5;/&#x53d1;&#x5e03;&#x4eba;&#x4fe1;&#x606f;/AllEvaluationViewController.m"
+            timestampString = "487696392.773429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x4ea7;&#x54c1;/&#x4ea7;&#x54c1;&#x8be6;&#x60c5;/&#x53d1;&#x5e03;&#x4eba;&#x4fe1;&#x606f;/AllEvaluationViewController.m"
+            timestampString = "487696402.732623"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__63-[AllEvaluationViewController tableView:cellForRowAtIndexPath:]_block_invoke.163"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85/%E5%8F%91%E5%B8%83%E4%BA%BA%E4%BF%A1%E6%81%AF/AllEvaluationViewController.m"
+                  timestampString = "490198131.374969"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "219">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.164"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85/%E5%8F%91%E5%B8%83%E4%BA%BA%E4%BF%A1%E6%81%AF/AllEvaluationViewController.m"
+                  timestampString = "490198131.37531"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.165"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85/%E5%8F%91%E5%B8%83%E4%BA%BA%E4%BF%A1%E6%81%AF/AllEvaluationViewController.m"
+                  timestampString = "490198131.375571"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "85">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x4ea7;&#x54c1;/&#x4ea7;&#x54c1;&#x8be6;&#x60c5;/&#x53d1;&#x5e03;&#x4eba;&#x4fe1;&#x606f;/AllEvaluationViewController.m"
+            timestampString = "487696403.427808"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x4ea7;&#x54c1;/&#x4ea7;&#x54c1;&#x8be6;&#x60c5;/&#x53d1;&#x5e03;&#x4eba;&#x4fe1;&#x606f;/AllEvaluationViewController.m"
+            timestampString = "487696806.939078"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AllEvaluationViewController tableView:cellForRowAtIndexPath:]"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85/%E5%8F%91%E5%B8%83%E4%BA%BA%E4%BF%A1%E6%81%AF/AllEvaluationViewController.m"
+                  timestampString = "490198131.376284"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "5146">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__63-[AllEvaluationViewController tableView:cellForRowAtIndexPath:]_block_invoke"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E4%BA%A7%E5%93%81/%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85/%E5%8F%91%E5%B8%83%E4%BA%BA%E4%BF%A1%E6%81%AF/AllEvaluationViewController.m"
+                  timestampString = "490198131.376488"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x7528;&#x6237;/&#x6211;&#x7684;&#x63a5;&#x5355;/&#x7ed3;&#x6848;/MyClosingViewController.m"
+            timestampString = "490198033.262442"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "502"
+            endingLineNumber = "502"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x7528;&#x6237;/&#x6211;&#x7684;&#x63a5;&#x5355;/&#x7ed3;&#x6848;/MyClosingViewController.m"
+            timestampString = "490198033.262442"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "503"
+            endingLineNumber = "503"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x4ea7;&#x54c1;/&#x4ea7;&#x54c1;&#x8be6;&#x60c5;/&#x53d1;&#x5e03;&#x4eba;&#x4fe1;&#x606f;/AllEvaluationViewController.m"
+            timestampString = "487697603.054055"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "-tableView:heightForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x4e0a;&#x4f20;&#x6587;&#x4ef6;/UploadFilesViewController.m"
+            timestampString = "488042802.125392"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/BaseVC/NetworkViewController.h"
+            timestampString = "488043488.674062"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "-requestDataPostWithString:params:andImages:successBlock:andFailBlock:"
+            landmarkType = "4">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/BaseVC/NetworkViewController.h"
+            timestampString = "488043490.145292"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "@interface NetworkViewController"
+            landmarkType = "2">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/BaseVC/NetworkViewController.m"
+            timestampString = "488043735.04797"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "-requestDataPostWithString:params:andImages:successBlock:andFailBlock:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__94-[NetworkViewController requestDataPostWithString:params:andImages:successBlock:andFailBlock:]_block_invoke"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "490198131.377965"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1943">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "490198131.378243"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "490198131.378618"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__94-[NetworkViewController requestDataPostWithString:params:andImages:successBlock:andFailBlock:]_block_invoke.61"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "490198131.378806"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/BaseVC/NetworkViewController.m"
+            timestampString = "488043735.04797"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-requestDataPostWithString:params:andImages:successBlock:andFailBlock:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NetworkViewController requestDataPostWithString:params:andImages:successBlock:andFailBlock:]"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "490198131.379213"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "974">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__94-[NetworkViewController requestDataPostWithString:params:andImages:successBlock:andFailBlock:]_block_invoke.61"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "490198131.379762"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__94-[NetworkViewController requestDataPostWithString:params:andImages:successBlock:andFailBlock:]_block_invoke_2"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "490198131.380749"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/BaseVC/NetworkViewController.m"
+            timestampString = "488043735.04797"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "-requestDataPostWithString:params:andImages:successBlock:andFailBlock:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NetworkViewController requestDataPostWithString:params:andImages:successBlock:andFailBlock:]"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "490198131.381169"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "974">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__94-[NetworkViewController requestDataPostWithString:params:andImages:successBlock:andFailBlock:]_block_invoke.61"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "490198131.381417"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__94-[NetworkViewController requestDataPostWithString:params:andImages:successBlock:andFailBlock:]_block_invoke_2"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "490198131.381711"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x7528;&#x6237;/&#x8ba4;&#x8bc1;/&#x8ba4;&#x8bc1;&#x5206;&#x7c7b;/AuthenPersonViewController.m"
+            timestampString = "488044247.630396"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x7528;&#x6237;/&#x8ba4;&#x8bc1;/&#x8ba4;&#x8bc1;&#x5206;&#x7c7b;/AuthenPersonViewController.m"
+            timestampString = "488044196.150191"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "-tableView:heightForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x7528;&#x6237;/&#x8ba4;&#x8bc1;/&#x8ba4;&#x8bc1;&#x5206;&#x7c7b;/AuthenPersonViewController.m"
+            timestampString = "488044365.523751"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "-tableView:heightForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x7528;&#x6237;/&#x8ba4;&#x8bc1;/&#x8ba4;&#x8bc1;&#x5206;&#x7c7b;/AuthenPersonViewController.m"
+            timestampString = "488044366.687899"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "-tableView:heightForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x7528;&#x6237;/&#x8ba4;&#x8bc1;/&#x8ba4;&#x8bc1;&#x5206;&#x7c7b;/AuthenCompanyViewController.m"
+            timestampString = "488044566.285064"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x7528;&#x6237;/&#x8ba4;&#x8bc1;/&#x8ba4;&#x8bc1;&#x5206;&#x7c7b;/AuthenCompanyViewController.m"
+            timestampString = "488044566.641551"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x4e0a;&#x4f20;&#x6587;&#x4ef6;/UploadViewController.m"
+            timestampString = "488118707.409538"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "-upCommitButton"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandViewController.m"
+            timestampString = "488121734.028865"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "-assciationMenuView:countForClass:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandViewController.m"
+            timestampString = "488121734.028865"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "-assciationMenuView:countForClass:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/&#x7b2c;&#x4e09;&#x65b9;/SkyAssociationMenu/SkyAssociationMenuView.m"
+            timestampString = "488119543.023749"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/&#x7b2c;&#x4e09;&#x65b9;/SkyAssociationMenu/SkyAssociationMenuView.m"
+            timestampString = "488119545.659582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/&#x7b2c;&#x4e09;&#x65b9;/SkyAssociationMenu/SkyAssociationMenuView.m"
+            timestampString = "488119547.153004"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandViewController.m"
+            timestampString = "488121734.028865"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "-assciationMenuView:idxChooseInClass1:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandViewController.m"
+            timestampString = "488121832.739179"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "-getAudiList"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandViewController.m"
+            timestampString = "488121832.739179"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "-getAudiList"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandViewController.m"
+            timestampString = "488121832.739179"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "-getAudiList"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandViewController.m"
+            timestampString = "488121947.077516"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "-getAudiList"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandViewController.m"
+            timestampString = "488121962.967018"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "-assciationMenuView:countForClass:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandViewController.m"
+            timestampString = "488122003.067455"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "-getAudiList"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandsViewController.m"
+            timestampString = "488125519.630275"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "213"
+            endingLineNumber = "213"
+            landmarkName = "-getAudiListWithBrand:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x673a;&#x52a8;&#x8f66;&#x54c1;&#x724c;/BrandsViewController.m"
+            timestampString = "488125519.630275"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "-getAudiListWithBrand:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/BaseVC/NetworkViewController.m"
+            timestampString = "488126636.549017"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "-requestDataPostWithString:params:successBlock:andFailBlock:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NetworkViewController requestDataPostWithString:params:successBlock:andFailBlock:]"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "488729965.587873"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "569">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__84-[NetworkViewController requestDataPostWithString:params:successBlock:andFailBlock:]_block_invoke"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "488729965.587977"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__84-[NetworkViewController requestDataPostWithString:params:successBlock:andFailBlock:]_block_invoke_2"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "488729965.588289"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/BaseVC/NetworkViewController.m"
+            timestampString = "488126636.549017"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "-requestDataPostWithString:params:successBlock:andFailBlock:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NetworkViewController requestDataPostWithString:params:successBlock:andFailBlock:]"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "488729965.588762"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "662">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__84-[NetworkViewController requestDataPostWithString:params:successBlock:andFailBlock:]_block_invoke_2"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "488729965.589126"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.62"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "488729965.589424"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.63"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "488729965.58961"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__84-[NetworkViewController requestDataPostWithString:params:successBlock:andFailBlock:]_block_invoke.65"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/BaseVC/NetworkViewController.m"
+                  timestampString = "488729965.589799"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/ReportSuitViewController.m"
+            timestampString = "488730577.976454"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "816"
+            endingLineNumber = "816"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/ReportSuitViewController.m"
+            timestampString = "488730577.976454"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "818"
+            endingLineNumber = "818"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x63a8;&#x8350;&#x4ea7;&#x54c1;/controller/NewProductViewController.m"
+            timestampString = "490119219.125112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "-numberOfSectionsInTableView:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NewProductViewController tableView:cellForRowAtIndexPath:]"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E6%8E%A8%E8%8D%90%E4%BA%A7%E5%93%81/controller/NewProductViewController.m"
+                  timestampString = "488733257.058233"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "583">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__60-[NewProductViewController tableView:cellForRowAtIndexPath:]_block_invoke.151"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/TabBarController/%E6%8E%A8%E8%8D%90%E4%BA%A7%E5%93%81/controller/NewProductViewController.m"
+                  timestampString = "488733257.059705"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x878d;&#x8d44;/&#x53d1;&#x5e03;&#x6210;&#x529f;/ReportFiSucViewController.m"
+            timestampString = "488733322.24908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x878d;&#x8d44;/&#x53d1;&#x5e03;&#x6210;&#x529f;/ReportFiSucViewController.m"
+            timestampString = "488733368.08958"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/&#x5de5;&#x5177;&#x7c7b;/UIViewController+SelectedIndex.m"
+            timestampString = "488733596.978389"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "-setSelectedIndex:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UIViewController(SelectedIndex) setSelectedIndex:]"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/%E5%B7%A5%E5%85%B7%E7%B1%BB/UIViewController+SelectedIndex.m"
+                  timestampString = "490198131.387105"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "423">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UIViewController(SelectedIndex) setSelectedIndex:]"
+                  moduleName = "qingdaofu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lishiyong/Documents/App/MyZhaiGuanJia/qingdaofu/%E5%B7%A5%E5%85%B7%E7%B1%BB/UIViewController+SelectedIndex.m"
+                  timestampString = "490198131.387341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "459">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x503a;&#x6743;&#x4eba;&#x4fe1;&#x606f;/DebtCreditMessageViewController.m"
+            timestampString = "490117531.879666"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x503a;&#x6743;&#x4eba;&#x4fe1;&#x606f;/EditDebtCreditMessageViewController.m"
+            timestampString = "490117670.900216"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x8bc9;&#x8bbc;/&#x503a;&#x6743;&#x4eba;&#x4fe1;&#x606f;/DebtCreditMessageViewController.m"
+            timestampString = "490117743.673612"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x53d1;&#x5e03;&#x4ea7;&#x54c1;/&#x878d;&#x8d44;/ReportFinanceViewController.m"
+            timestampString = "490118415.975584"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "616"
+            endingLineNumber = "616"
+            landmarkName = "-openAndClose:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x7528;&#x6237;/&#x6211;&#x7684;&#x53d1;&#x5e03;/&#x7ed3;&#x6848;/ReleaseCloseViewController.m"
+            timestampString = "490198123.684194"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "607"
+            endingLineNumber = "607"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x4ea7;&#x54c1;/&#x4ea7;&#x54c1;&#x8be6;&#x60c5;/&#x53d1;&#x5e03;&#x4eba;&#x4fe1;&#x606f;/AllEvaluationViewController.m"
+            timestampString = "490198652.497987"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x4ea7;&#x54c1;/&#x4ea7;&#x54c1;&#x8be6;&#x60c5;/&#x53d1;&#x5e03;&#x4eba;&#x4fe1;&#x606f;/AllEvaluationViewController.m"
+            timestampString = "490198664.178138"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "304"
+            endingLineNumber = "304"
+            landmarkName = "-getEvaluateDetailListsWithPage:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qingdaofu/TabBarController/&#x4ea7;&#x54c1;/&#x4ea7;&#x54c1;&#x8be6;&#x60c5;/&#x53d1;&#x5e03;&#x4eba;&#x4fe1;&#x606f;/AllEvaluationViewController.m"
+            timestampString = "490198667.017209"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "303"
+            endingLineNumber = "303"
+            landmarkName = "-getEvaluateDetailListsWithPage:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
